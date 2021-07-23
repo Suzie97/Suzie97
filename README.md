@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Github Readme Neofetch.svg" alt="Neofetch">
+  <img src="Github Readme Neofetch.svg">
 </h1>
 
 <!--
